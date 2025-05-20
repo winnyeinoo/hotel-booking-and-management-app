@@ -1,4 +1,4 @@
-package com.wno.nyein_hotel.config;
+package com.wno.nyein_hotel.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
